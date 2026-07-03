@@ -1,4 +1,4 @@
-package menudriven-app;
+package menudriven;
 import java.io.*;
 import java.util.*;
 class Main {

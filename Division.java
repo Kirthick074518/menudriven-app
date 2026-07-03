@@ -1,4 +1,4 @@
-package menudriven-app;
+package menudriven;
 
 public class Division {
 	 int div(int a,int b) {

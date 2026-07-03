@@ -1,4 +1,4 @@
-package menudriven-app;
+package menudriven;
 
 public class Subtraction {
 	 int sub(int a,int b) {

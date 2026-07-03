@@ -1,4 +1,4 @@
-package menudriven-app;
+package menudriven;
 
 public class Multiplication {
 	 int mul(int a,int b) {

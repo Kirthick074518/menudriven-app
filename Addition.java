@@ -1,4 +1,4 @@
-package menudriven-app;
+package menudriven;
 
 public class Addition {
    int add(int a,int b) {
